@@ -44,6 +44,9 @@
     <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
     </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" width="60" height="38"/><br>mySQL
+    </td>
   </tr>
 </table>
 
