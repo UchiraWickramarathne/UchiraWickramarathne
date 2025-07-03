@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Uchira Wickramarathne 👋</h1>
-<h3 align="center">Teaching Assistant at University of Sri Jayewardenepura</h3>
+<h3 align="center">Computer Science Undergraduate | Teaching Assistant | AI & IoT Innovator</h3>
 
 <div align="center">
   <p>
@@ -15,7 +15,20 @@
 
 ## About Me
 - 🎓 Undergraduate - BSc.(Hons) in Computer Science,  University of Sri Jayewardenepura   
-- 🌱 Interested in IoT, Machine Learning, and Artificial Intelligence  
+- 🧑‍🏫 Currently working as a **Teaching Assistant** in the Department of Computer Science
+- 🔭 Researching and building **IoT-based Smart Health Monitoring Systems**
+- 🤖 Working on **gesture-based robot control**, **fabric classification**, and **object detection**
+- 🧠 Exploring **Machine Learning**, **Artificial Intelligenceg**, and **IoT**
+
+---
+
+### 🧠 Projects & Interests
+
+- 🤖 **Autonomous Robot** with real-time gesture recognition using MediaPipe
+- 🧵 **Smart Fabric Classifier** using TensorFlow and servo-based output system
+- 🌬️ **Smart Asthma Management System** with sensor data, ML predictions & mobile alerts
+- 📚 **Educational Center Management System**: attendance, payment, and achievement tracking
+- 📷 **Object Recognition System** using webcam + IR sensor 
 
 ## Skills
 <h4 align="left">Programming Languages</h4>
@@ -56,4 +69,6 @@
 ---
 
 
-Thanks for stopping by! 😊
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=UchiraWickramarathne&show_icons=true&theme=radical" alt="Uchira's GitHub Stats" />
+</p>
