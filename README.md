@@ -55,11 +55,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Uchira's GitHub stats](https://github-readme-stats.vercel.app/api?username=UchiraWickramarathne&show_icons=true&theme=radical)
-
----
-
 
 Thanks for stopping by! 😊
