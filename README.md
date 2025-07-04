@@ -36,6 +36,15 @@
 <table>
   <tr>
     <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
+  </td>
+  <td align="center" width="100">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+  </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C
     </td>
     <td align="center" width="100">
@@ -45,7 +54,10 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
     </td>
     <td align="center" width="100">
-      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" width="60" height="38"/><br>mySQL
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" width="100" height="38"/><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/><br>Firebase
     </td>
   </tr>
 </table>
