@@ -14,7 +14,7 @@
 
 
 ## About Me
-- 🎓 Undergraduate - BSc.(Hons) in Computer Science,  University of Sri Jayewardenepura   
+- 🎓 Graduate - BSc.(Hons) in Computer Science,  University of Sri Jayewardenepura   
 - 🧑‍🏫 Currently working as a **Teaching Assistant** in the Department of Computer Science
 - 🔭 Researching and building **IoT-based Smart Health Monitoring Systems**
 - 🤖 Working on **gesture-based robot control**, **fabric classification**, and **object detection**
