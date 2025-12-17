@@ -25,8 +25,8 @@
 ### 🧠 Projects & Interests
 
 - 🤖 **Autonomous Robot** with real-time gesture recognition using MediaPipe
-- 🧵 **Smart Fabric Classifier** using TensorFlow and servo-based output system
 - 🌬️ **Smart Asthma Management System** with sensor data, ML predictions & mobile alerts
+- 🧵 **Smart Fabric Classifier** using TensorFlow and servo-based output system
 - 📚 **Educational Center Management System**: attendance, payment, and achievement tracking
 - 📷 **Object Recognition System** using webcam + IR sensor 
 
